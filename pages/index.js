@@ -8,7 +8,8 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <a href="bipapp://bipapp?hello=wow&ahoy=123">Fuck you</a>
+      <h1>Bip App</h1>
+      <h4>Birthday Reminder</h4>
     </div>
   )
 }
