@@ -12,6 +12,7 @@ const Download = () => {
           mb={2}
           objectFit="contain"
           width="150px"
+          height="45px"
           src="/ios_download.png"
         />
       </Link>

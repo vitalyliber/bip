@@ -8,7 +8,12 @@ const BirthdayReminderHeader = () => {
       <Heading mt={2} mb={3} size="md">
         Birthday Reminder
       </Heading>
-      <Image size="100px" src="/logo.png" alt="Bip. Birthday Reminder Logo" />
+      <Image
+        width="100px"
+        height="100px"
+        src="/logo.png"
+        alt="Bip. Birthday Reminder Logo"
+      />
     </>
   );
 };
