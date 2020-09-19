@@ -7,7 +7,7 @@ const Download = () => {
       <Text mt={12} mb={4}>
         Get the app.
       </Text>
-      <Link href="https://www.apple.com/ios/app-store/" target="_blank">
+      <Link href="https://apps.apple.com/us/app/bip-birthday-reminder/id1532232017" target="_blank">
         <Image
           mb={2}
           objectFit="contain"
@@ -15,7 +15,7 @@ const Download = () => {
           src="/ios_download.png"
         />
       </Link>
-      <Link href="https://play.google.com/store?hl=en" target="_blank">
+      <Link href="https://play.google.com/store/apps/details?id=com.casply.birthdayreminder" target="_blank">
         <Image objectFit="contain" width="150px" src="/android_download.png" />
       </Link>
     </>
