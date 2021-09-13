@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start -p 5000",
-    "deploy": "git push dokku@casply.com:bip master"
+    "deploy": "git push dokku@116.203.209.110:bip master"
   },
   "dependencies": {
     "@chakra-ui/core": "^0.8.0",
